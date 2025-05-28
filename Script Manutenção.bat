@@ -37,7 +37,7 @@ goto menu
 
 :opcao2
 cls
-xcopy /T /C C:\Users\lucianogusso\Documents\*.* C:\Users\lucianogusso\Desktop
+xcopy /T /C C:\Users\usuario\Documents\*.* C:\Users\usuario\Desktop
 echo ==================================
 echo *      Backup concluido           *
 echo ==================================
